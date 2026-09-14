@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "game": "dungeon-game",
+  "channel": "windows-testing",
+  "version": "0.1.0-test.2",
+  "protocol": 0,
+  "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
+  "legacy": true
+}
