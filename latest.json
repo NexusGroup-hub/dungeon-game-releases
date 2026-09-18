@@ -2,8 +2,7 @@
   "schema": 1,
   "game": "dungeon-game",
   "channel": "windows-testing",
-  "version": "0.1.0-test.2",
-  "protocol": 0,
-  "fingerprint": "0000000000000000000000000000000000000000000000000000000000000000",
-  "legacy": true
+  "version": "0.1.0-test.9",
+  "protocol": 1,
+  "fingerprint": "7cfebf4afa6c0facc650b33d84e78487e863a2602190035f709c5df0a463c367"
 }
